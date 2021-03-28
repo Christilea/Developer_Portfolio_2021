@@ -1,0 +1,37 @@
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(104, 102, 102);
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2e8f3;
+  text-align: center;
+  padding: 60px 50px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: rgb(14, 1, 39);
+  color: rgb(158, 152, 158);
+}
+
+
+.content {
+  background-color: rgb(161, 160, 160);
+  padding: 10px;
+  height: 810px; 
+}
+p {
+  margin: auto;  
+  padding: 20px;
+  text-align: left;
+  font-weight: bold; 
+}
+.footer {
+  background-color: #f1f1f1;
+  padding: 40px;
+}
