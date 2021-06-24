@@ -7,7 +7,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #f2e8f3;
+  color: rgb(52, 52, 53);
   text-align: center;
   padding: 60px 50px;
   text-decoration: none;
@@ -15,7 +15,7 @@
 
 
 .topnav a:hover {
-  background-color: rgb(14, 1, 39);
+  background-color: rgb(77, 71, 90);
   color: rgb(158, 152, 158);
 }
 
@@ -29,9 +29,9 @@ p {
   margin: auto;  
   padding: 20px;
   text-align: left;
-  font-weight: bold; 
+  font-weight: italic; 
 }
 .footer {
-  background-color: #f1f1f1;
+  background-color: hsla(0, 0%, 95%, 0.774);
   padding: 40px;
 }
